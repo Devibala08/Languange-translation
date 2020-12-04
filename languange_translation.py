@@ -13,7 +13,7 @@ while n < len(words):
     orignal_text = orignal_text.replace(txt1, translated_word)
     #print(n)
     n = n + 1
-print(orignal_text)
-file = open('Translated_text2.txt', 'w')
+#print(orignal_text)
+file = open('Translated_text3.txt', 'w')
 file.write(orignal_text)
 file.close()
