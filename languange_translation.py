@@ -1,9 +1,9 @@
 import pandas as pd
 
-with open('t8.shakespeare.txt') as file:
+with open(r'C:\Users\welcome\Desktop\t8.shakespeare.txt') as file:
     data = file.read()
 
-words  = pd.read_excel('translate.xlsx')  # excel file
+words  = pd.read_excel(r'C:\Users\welcome\Desktop\translate.xlsx')  # excel file
 
 orignal_text = data
 n= 0
