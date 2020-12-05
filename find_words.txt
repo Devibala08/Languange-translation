@@ -1,9 +1,9 @@
-abide 30
-about 421
-above 143
-abroad 67
-absence 49
-abuse 76
+abide 
+about 
+above 
+abroad 
+absence 
+abuse 
 according
 account
 accuse
